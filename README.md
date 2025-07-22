@@ -59,4 +59,6 @@
 
 </p>
 
+![snake gif](https://github.com/Aline-Daniel/Aline-Daniel/blob/output/github-contribution-grid-snake.svg)
+
 
