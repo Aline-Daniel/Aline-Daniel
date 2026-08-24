@@ -1,5 +1,5 @@
 # Olá! Eu sou Aline Daniel 👋
-## Data Analyst | Business Intelligence
+
 
 📊 Analista de Dados | Business Intelligence | Python | SQL | Power BI
 
