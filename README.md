@@ -1,4 +1,4 @@
- # Olá! Eu sou Aline Daniel 👋
+# Olá! Eu sou Aline Daniel 👋
 
 📊 Analista de Dados | Business Intelligence | Python | SQL | Power BI
 
@@ -20,30 +20,32 @@
 
 </div>
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<br>
 
+##
+
+<div align="center">
+
+<a href="https://www.instagram.com/alinedanielll/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:alinedaniel18@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/aline-daniel-da-costa-77398713b/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/alinedanielll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:alinedaniel18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aline-costa-43b94930a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
 
-
-<br/>
+<br>
 
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aline-Daniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aline-Daniel&layout=compact&theme=tokyonight" height="180"/>
 
 </div>
