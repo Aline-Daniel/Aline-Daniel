@@ -37,14 +37,13 @@
 
 
 <br/>
-<br/>
 
 <h2>📊 Estatísticas</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aline-Daniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aline-Daniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Daniel&layout=compact&langs_count=7&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aline-Daniel&layout=compact&theme=tokyonight" height="180"/>
 
 </div>
