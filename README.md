@@ -1,9 +1,12 @@
- ###  Olá! Eu sou Aline Daniel 🖐️
-• 📚 Formada Ciência da Computação na Universidade Estácio de Sá 
+ # Olá! Eu sou Aline Daniel 👋
 
-• 🖥 Formada em Desenvolvimento Web Full Stack Node.Js - Digital House Brasil 
+📊 Analista de Dados | Business Intelligence | Python | SQL | Power BI
 
-• 📍 Rio de Janeiro - RJ
+🎓 Formada em Ciência da Computação pela Universidade Estácio de Sá
+
+📈 Focada em Análise de Dados, BI, criação de dashboards e transformação de dados em insights estratégicos
+
+📍 Rio de Janeiro - RJ
 
 <div align="center">
 
