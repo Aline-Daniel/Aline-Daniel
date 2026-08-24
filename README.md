@@ -39,25 +39,12 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<h2>📊 Estatísticas</h2>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Aline-Daniel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Daniel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aline-Daniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Daniel&layout=compact&langs_count=7&theme=tokyonight"/>
 
-
-
+</div>
